@@ -1,2 +1,2 @@
-# flutter_ws_as
-Flutter workshop Artisan Digital
+# Flutter Workshop Artisan Digital
+**JSON url:** https://jsonplaceholder.typicode.com/
